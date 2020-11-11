@@ -1,3 +1,4 @@
-.newsletter h2 {
+.newsletter h2,
+.newNav h2:last-of-type {
     color: #ff0000;
 }
